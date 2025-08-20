@@ -1,7 +1,7 @@
-#git本地库控制文件夹。
+#git 本地库控制文件夹。
 .git/
 
-#Visual Studio Code项目配置文件夹。
+#Visual Studio Code 项目配置文件夹。
 .vscode/
 
 #生成项目时的目标文件夹。
@@ -9,9 +9,3 @@ bin/
 
 #生成项目时的中间文件夹。
 obj/
-
-#解决方案配置文件。
-*.sln
-
-#项目配置文件。
-*.csproj
